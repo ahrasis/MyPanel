@@ -1,0 +1,13 @@
+<?php
+$wb['mailbox_autoresponder_txt'] = 'Autobeantwoorden';
+$wb['autoresponder_subject'] = 'Out of office antwoord';
+$wb['autoresponder_text_txt'] = 'Tekst';
+$wb['autoresponder_txt'] = 'Actief';
+$wb['autoresponder_start_date_txt'] = 'Start op';
+$wb['autoresponder_start_date_isfuture'] = 'Startdatum mag niet in het verleden liggen.';
+$wb['autoresponder_end_date_txt'] = 'Eindigt op';
+$wb['autoresponder_end_date_isgreater'] = 'Einddatum moet later zijn dan de startdatum.';
+$wb['autoresponder_active'] = 'Inschakelen autobeantwoorden';
+$wb['now_txt'] = 'Nu';
+$wb['autoresponder_subject_txt'] = 'E-mail onderwerp';
+?>

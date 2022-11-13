@@ -1,0 +1,8 @@
+<?php
+$wb['server_id_txt'] = 'Servidor';
+$wb['type_txt'] = 'Filtro';
+$wb['pattern_txt'] = 'Padrão da expressão regular';
+$wb['data_txt'] = 'Dados';
+$wb['action_txt'] = 'Ação';
+$wb['active_txt'] = 'Ativo';
+$wb['pattern_error_empty'] = 'Padrão da expressão regular está vazio.';

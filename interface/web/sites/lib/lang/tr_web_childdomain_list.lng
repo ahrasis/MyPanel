@@ -1,0 +1,18 @@
+<?php
+$wb['list_head_txt'] = 'Takma Etki Alanı';
+$wb['active_txt'] = 'Etkin';
+$wb['server_id_txt'] = 'Sunucu';
+$wb['parent_domain_id_txt'] = 'Web Sitesi';
+$wb['domain_txt'] = 'Takma Etki Alanı';
+$wb['add_new_subdomain_txt'] = 'Alt Etki Alanı Ekle';
+$wb['add_new_aliasdomain_txt'] = 'Takma Etki Alanı Ekle';
+$wb['domain_error_empty'] = 'Etki alanı boş olamaz.';
+$wb['domain_error_unique'] = 'Aynı etki alanı zaten var.';
+$wb['domain_error_regex'] = 'Etki alanı geçersiz.';
+$wb['domain_error_acme_invalid'] = 'acme.invalid etki alanı adı kullanılamaz.';
+$wb['no_redirect_txt'] = 'Yönlendirme yok';
+$wb['no_flag_txt'] = 'İşaret yok';
+$wb['none_txt'] = 'Yok';
+$wb['aliasdomain_list_head_txt'] = 'Takma Etki Alanları';
+$wb['subdomain_list_head_txt'] = 'Alt Etki Alanları';
+?>

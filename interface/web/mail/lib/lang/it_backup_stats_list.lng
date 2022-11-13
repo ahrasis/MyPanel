@@ -1,0 +1,9 @@
+<?php
+$wb['list_head_txt'] = 'Backup Stats';
+$wb['active_txt'] = 'Attivo';
+$wb['domain_txt'] = 'Email';
+$wb['backup_count_txt'] = 'Numero di Backup';
+$wb['backup_server_txt'] = 'Server';
+$wb['backup_interval_txt'] = 'Intervallo / conteggio';
+$wb['backup_size_txt'] = 'Dimensione Backup';
+?>

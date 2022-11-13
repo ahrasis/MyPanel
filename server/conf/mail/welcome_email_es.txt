@@ -1,0 +1,4 @@
+From: {admin_name} <{admin_mail}>
+Subject: Bienvenido a su nueva cuenta de correo
+
+Bienvenido a su nueva cuenta de correo. Su administrador.

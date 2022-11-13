@@ -1,0 +1,9 @@
+<?php
+$wb['list_head_txt'] = 'Yedekleme İstatistikleri';
+$wb['active_txt'] = 'Etkin';
+$wb['domain_txt'] = 'E-posta';
+$wb['backup_count_txt'] = 'Yedek Sayısı';
+$wb['backup_server_txt'] = 'Sunucu';
+$wb['backup_interval_txt'] = 'Sıklık / Sayı';
+$wb['backup_size_txt'] = 'Yedek Boyutu';
+?>

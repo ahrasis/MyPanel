@@ -1,0 +1,18 @@
+<?php
+$wb['invoices_txt'] = 'Fattura';
+$wb['invoice_no_txt'] = 'Fattura n°.';
+$wb['amount_txt'] = 'Importo';
+$wb['date_txt'] = 'Data';
+$wb['invoice_status_txt'] = 'Stato';
+$wb['no_invoices_txt'] = 'Fattura non disponibile.';
+$wb['paid_txt'] = 'Pagato';
+$wb['unpaid_txt'] = 'Non pagato';
+$wb['paynow_txt'] = 'paga adesso';
+$wb['proforma_txt'] = 'Proforma';
+$wb['refunded_txt'] = 'Rimborsato';
+$wb['not_refunded_txt'] = 'Non rimborsato';
+$wb['invoice_type_invoice_txt'] = 'Fattura';
+$wb['invoice_type_proforma_txt'] = 'Proforma';
+$wb['invoice_type_refund_txt'] = 'Rimborso';
+$wb['invoice_type_reminder_txt'] = 'Promemoria';
+?>

@@ -1,0 +1,4 @@
+From: {admin_name} <{admin_mail}>
+Subject: Ihr Mailaccount ist aktiv.
+
+Ihr Mailaccount ist jetzt aktiv. Viel Vergnügen.

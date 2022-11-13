@@ -1,0 +1,8 @@
+<?php
+$wb['head_txt'] = 'Vpopmail e-posta yapılandırmasını içe aktar';
+$wb['legend_txt'] = 'Uzak veritabanı sunucusu bağlantı bilgileri';
+$wb['btn_start_txt'] = 'İçe Aktarmayı Başlat';
+$wb['btn_connect_txt'] = 'Uzak Sunucuya Bağlan';
+$wb['btn_cancel_txt'] = 'İptal';
+
+?>

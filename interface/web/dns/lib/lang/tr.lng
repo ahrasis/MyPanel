@@ -1,0 +1,23 @@
+<?php
+
+$wb['DNS'] = 'DNS';
+$wb['Zones'] = 'Bölgeler';
+$wb['DNS A'] = 'DNS A';
+$wb['DNS ALIAS'] = 'DNS ALIAS';
+$wb['DNS CNAME'] = 'DNS CNAME';
+$wb['DNS hinfo'] = 'DNS HINFO';
+$wb['DNS mx'] = 'DNS MX';
+$wb['DNS ns'] = 'DNS NS';
+$wb['DNS ptr'] = 'DNS PTR';
+$wb['DNS RP'] = 'DNS RP';
+$wb['DNS Zone'] = 'DNS Bölgesi';
+$wb['Records'] = 'Kayıtlar';
+$wb['DNS SRV'] = 'DNS SRV';
+$wb['DNS TXT Record'] = 'DNS TXT Kaydı';
+$wb['DNS TXT'] = 'DNS TXT';
+$wb['DNS Wizard'] = 'DNS Yardımcısı';
+$wb['Add DNS Zone'] = 'DNS Bölgesi Ekle';
+$wb['Templates'] = 'Kalıplar';
+$wb['Secondary Zones'] = 'İkincil DNS Bölgeleri';
+$wb['Import Zone File'] = 'Bölge Dosyası İçe Aktarma';
+?>

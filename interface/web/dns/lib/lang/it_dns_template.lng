@@ -1,0 +1,7 @@
+<?php
+$wb['name_txt'] = 'Nome';
+$wb['fields_txt'] = 'Campi';
+$wb['template_txt'] = 'Modello';
+$wb['visible_txt'] = 'Visibile';
+$wb['placeholder_txt'] = 'Segnaposto';
+?>

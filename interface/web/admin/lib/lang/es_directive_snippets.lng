@@ -1,0 +1,15 @@
+<?php
+$wb['active_txt'] = 'Habilitado';
+$wb['customer_viewable_txt'] = 'Visible por los clientes';
+$wb['Directive Snippets'] = 'Fragmentos de código';
+$wb['directive_snippets_name_empty'] = 'Por favor ingrese un nombre para el fragmento.';
+$wb['directive_snippets_name_error_unique'] = 'Ya existe un fragmento de código con ese nombre.';
+$wb['name_txt'] = 'Nombre del fragmento';
+$wb['snippet_txt'] = 'Fragmento';
+$wb['type_txt'] = 'Tipo';
+$wb['variables_txt'] = 'Variables';
+$wb['required_php_snippets_txt'] = 'Required PHP Snippet';
+$wb['update_sites_txt'] = 'Update sites using this snippet';
+$wb['error_hide_snippet_active_sites'] = 'You cannot hide this snippet from customers as it is currently used by existing websites.';
+$wb['error_disable_snippet_active_sites'] = 'You cannot disable this snippet as it is currently used by existing websites.';
+$wb['error_delete_snippet_active_sites'] = 'You cannot delete this snippet as it is currently used by existing websites.';

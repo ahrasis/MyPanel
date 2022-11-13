@@ -1,0 +1,14 @@
+<?php
+$wb['server_ip_map_title'] = 'Mappatura indirizzi IPv4';
+$wb['server_ip_map_desc'] = 'Modulo per mappare indirizzi IPv4 per i server Web';
+$wb['server_id_txt'] = 'Rewrite on Server';
+$wb['source_txt'] = 'IP Sorgennte';
+$wb['destination_txt'] = 'IP Destinazione';
+$wb['active_txt'] = 'Attivo';
+$wb['ip_error_wrong'] = 'L\'indirizzo IP destinazione non è valido';
+$wb['destination_ip_empty'] = 'L\'indirizzo IP destinazione è vuoto.';
+$wb['source_ip_empty'] = 'L\'indirizzo IP sorgente èvuoto .';
+$wb['server_empty_error'] = 'Il Server è vuoto.';
+$wb['duplicate_mapping_error'] = 'La mappatura esiste già.';
+$wb['ip_mapping_error'] = 'l\'IP sorgente non può essere un Server rewrite.';
+?>

@@ -1,0 +1,3 @@
+Please see our GitLab issues for feature requests and bug reports.
+
+https://git.ispconfig.org/ispconfig/ispconfig3/issues

@@ -1,0 +1,12 @@
+<?php
+$wb['User Settings'] = 'Configurações de usuários';
+$wb['Settings'] = 'Configurações';
+$wb['ISPConfig Tools'] = 'Ferramentas';
+$wb['Interface'] = 'Interface';
+$wb['Password and Language'] = 'Senha e Idioma';
+$wb['ispconfig_tools_note'] = 'Este módulo permite modificar a senha e idioma e iniciar a sincronização de registros DNS.';
+$wb['Sync Tools'] = 'Sincronização';
+$wb['Resync'] = 'Sincronizar';
+$wb['Import'] = 'Importar';
+$wb['ISPConfig 3 mail'] = 'eMails do ISPConfig';
+$wb['PDNS Tupa'] = 'PowerDNS';

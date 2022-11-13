@@ -1,0 +1,4 @@
+<?php
+$wb['invoice_client_settings_txt'] = 'Müşteri Fatura Ayarları';
+$wb['edit_txt'] = 'Düzenle';
+?>

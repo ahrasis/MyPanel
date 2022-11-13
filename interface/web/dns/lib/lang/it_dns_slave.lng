@@ -1,0 +1,17 @@
+<?php
+$wb['server_id_txt'] = 'Server';
+$wb['origin_txt'] = 'Zona DNS';
+$wb['ns_txt'] = 'NS';
+$wb['active_txt'] = 'Attivo';
+$wb['limit_dns_slave_zone_txt'] = 'Hai raggiunto il numero massimo di zone DNS secondarie per il tuo profilo.';
+$wb['client_txt'] = 'Cliente';
+$wb['xfer_txt'] = 'Consenti il trasferimento di zona a <br />questi IP (lista indirizzi separati da virgola)';
+$wb['server_id_error_empty'] = 'Nessun server selezionato';
+$wb['origin_error_empty'] = 'Zona vuoto.';
+$wb['origin_error_unique'] = 'Esiste già un record per questa zona.';
+$wb['origin_error_regex'] = 'Zona ha un formato non valido.';
+$wb['ns_error_regex'] = 'NS ha un formato non valido.';
+$wb['eg_domain_tld'] = 'esempio: domain.tld.';
+$wb['ipv4_form_txt'] = 'Separare più indirizzi IP con virgola';
+$wb['secondary_zone_txt'] = 'Zona DNS Secondaria';
+?>

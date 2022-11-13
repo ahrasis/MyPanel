@@ -1,0 +1,6 @@
+<?php
+$wb['list_head_txt'] = 'Usuários de Pasta Web';
+$wb['active_txt'] = 'Ativo';
+$wb['web_folder_id_txt'] = 'Usuários de Pasta Web';
+$wb['username_txt'] = 'Usuário';
+$wb['add_new_record_txt'] = 'Adicionar novo usuário';

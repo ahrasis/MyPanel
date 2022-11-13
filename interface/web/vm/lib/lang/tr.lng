@@ -1,0 +1,7 @@
+<?php
+$wb['Virtual Servers'] = 'sSunucular';
+$wb['OS Templates'] = 'İşletim Sistemi Kalıpları';
+$wb['VM Templates'] = 'Sanal Makine Kalıpları';
+$wb['IP addresses'] = 'IP Adresleri';
+$wb['OpenVZ'] = 'OpenVZ';
+?>

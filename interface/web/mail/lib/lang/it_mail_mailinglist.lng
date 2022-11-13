@@ -1,0 +1,23 @@
+<?php
+$wb['limit_mailmailinglist_txt'] = 'Limite raggiunto';
+$wb['domain_error_empty'] = 'Dominio vuoto.';
+$wb['listname_error_empty'] = 'Listname vuoto.';
+$wb['listname_error_regex'] = 'The list name is invalid. The minimum length is 2 characters (allowed are: [a-z 1-9 - _]).';
+$wb['domain_error_regex'] = 'Nome dominio non valido.';
+$wb['email_in_use_txt'] = 'Email è già in uso';
+$wb['no_domain_perm'] = 'Non hai i diritti per questo dominio.';
+$wb['password_strength_txt'] = 'Livello sicurezza Password';
+$wb['server_id_txt'] = 'Server';
+$wb['domain_txt'] = 'Dominio';
+$wb['listname_txt'] = 'Listname';
+$wb['client_txt'] = 'Cliente';
+$wb['email_txt'] = 'Email';
+$wb['password_txt'] = 'Password';
+$wb['generate_password_txt'] = 'Genera Password';
+$wb['repeat_password_txt'] = 'Ripeti Password';
+$wb['password_mismatch_txt'] = 'Le password non coincidono.';
+$wb['password_match_txt'] = 'Le password coincidono.';
+$wb['listname_error_unique'] = 'Esiste già una lista mail con questo nome. Scegli un nome differente.';
+$wb['email_error_isemail'] = 'Indirizzo Email non valido.';
+$wb['mailinglist_txt'] = 'Mailing list';
+?>

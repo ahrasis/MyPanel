@@ -1,0 +1,16 @@
+<?php
+$wb['server_id_txt'] = 'Server';
+$wb['zone_txt'] = 'Zonae';
+$wb['name_txt'] = 'Nome';
+$wb['type_txt'] = 'tipo';
+$wb['data_txt'] = 'Hostname Canonico';
+$wb['ttl_txt'] = 'TTL';
+$wb['active_txt'] = 'Attivo';
+$wb['limit_dns_record_txt'] = 'il massimo numero of DNS records raggiunto per il tuo profilo.';
+$wb['no_zone_perm'] = 'Non sei abilitato ad aggiungere record a questa zona DNS.';
+$wb['name_error_empty'] = 'Il nome è vuoto.';
+$wb['name_error_regex'] = 'Il nome non è corretto.';
+$wb['data_error_empty'] = 'hostname Canonico è vuoto';
+$wb['data_error_regex'] = 'hostname Canonico non valido';
+$wb['ttl_range_error'] = 'Minimo TTL è 60 secondi.';
+?>

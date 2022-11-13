@@ -1,0 +1,13 @@
+<?php
+$wb['mailbox_autoresponder_txt'] = 'Autorisponditore';
+$wb['autoresponder_subject'] = 'Risposta automatica';
+$wb['autoresponder_text_txt'] = 'Testo';
+$wb['autoresponder_txt'] = 'Attivo';
+$wb['autoresponder_start_date_txt'] = 'A partire dal (giorno/ora):';
+$wb['autoresponder_start_date_isfuture'] = 'Selezionare una data futura.';
+$wb['autoresponder_end_date_txt'] = 'Fino al (giorno/ora):';
+$wb['autoresponder_end_date_isgreater'] = 'La data di fine deve essere successiva a quella di avvio.';
+$wb['autoresponder_active'] = 'Attivare risponditore?';
+$wb['now_txt'] = 'Adesso';
+$wb['autoresponder_subject_txt'] = 'Oggetto e-mail/messaggio automatico';
+?>

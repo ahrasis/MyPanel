@@ -1,0 +1,9 @@
+<?php
+$wb['products_txt'] = 'I miei prodotti';
+$wb['name_txt'] = 'Nome';
+$wb['price_txt'] = 'Prezzo';
+$wb['next_payment_date_txt'] = 'Prossima fattura';
+$wb['no_products_txt'] = 'Nessun prodotto trovato.';
+$wb['edit_txt'] = 'Edit';
+$wb['cancellation_date_txt'] = 'Cancellato da';
+?>

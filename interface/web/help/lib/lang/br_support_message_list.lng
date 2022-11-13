@@ -1,0 +1,6 @@
+<?php
+$wb['list_head_txt'] = 'Mensagens de Suporte';
+$wb['sender_id_txt'] = 'Remetente';
+$wb['subject_txt'] = 'Assunto';
+$wb['add_new_record_txt'] = 'Adicionar nova mensagem de suporte';
+$wb['date_txt'] = 'Data';

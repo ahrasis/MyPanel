@@ -1,0 +1,8 @@
+<?php
+$wb['list_head_txt'] = 'Takma Etki Alanı';
+$wb['active_txt'] = 'Etkin';
+$wb['source_txt'] = 'Kaynak';
+$wb['destination_txt'] = 'Hedef';
+$wb['source_txt'] = 'Kaynak';
+$wb['add_new_record_txt'] = 'Takma Etki Alanı Ekle';
+?>

@@ -1,0 +1,13 @@
+<?php
+$wb['server_id_txt'] = 'Server';
+$wb['multiport_txt'] = 'Multi Porta';
+$wb['singleport_txt'] = 'Singola Porta';
+$wb['protocol_txt'] = 'Protocollo';
+$wb['table_txt'] = 'Tavola';
+$wb['target_txt'] = 'Obiettivo';
+$wb['state_txt'] = 'Stato';
+$wb['destination_ip_txt'] = 'Indirizzo Destinazione';
+$wb['source_ip_txt'] = 'Indirizzo Sorgente';
+$wb['active_txt'] = 'Attivo';
+$wb['iptables_error_unique'] = 'Esiste già una regola del firewall per questo server.';
+?>

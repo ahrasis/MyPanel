@@ -1,0 +1,7 @@
+<?php
+$wb['list_head_txt'] = 'Impostazioni default del tema';
+$wb['list_desc_txt'] = 'Modifica le opzioni specifiche del tema default';
+$wb['no_settings_txt'] = 'Non sono presenti impostazioni per il tema default.';
+$wb['btn_start_txt'] = 'Salva';
+$wb['btn_cancel_txt'] = 'Indietro';
+?>

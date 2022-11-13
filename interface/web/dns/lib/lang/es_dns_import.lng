@@ -1,0 +1,25 @@
+<?php
+$wb['btn_cancel_txt'] = 'Cancelar';
+$wb['btn_save_txt'] = 'Importar archivo de zona';
+$wb['client_txt'] = 'Cliente';
+$wb['domain_field_desc_txt'] = 'Puede quedar en blanco si el nombre de dominio es el nombre del archivo o está en el contenido del archivo de zona.';
+$wb['domain_txt'] = 'Dominio';
+$wb['error_no_server_id'] = 'No se ha propocionado un servidor.';
+$wb['error_no_valid_zone_file_txt'] = 'Al parecer este no es un archivo de zona válido';
+$wb['error_not_allowed_server_id'] = 'El servidor seleccionado no está permitido para esta cuenta.';
+$wb['no_file_uploaded_error'] = 'No se ha subido un archivo de zona';
+$wb['server_id_txt'] = 'Servidor';
+$wb['title'] = 'Importar Archivo de Zona';
+$wb['zone_file_import_txt'] = 'Importar archivo de zona';
+$wb['zone_file_successfully_imported_txt'] = 'El archivo de zona se ha importado correctamente!';
+$wb['zonefile_to_import_txt'] = 'Archivo de Zona';
+$wb['zone_already_exists'] = 'This zone already exists, you must delete or rename it first.';
+$wb['zone_not_allowed'] = 'This zone is not allowed for this account.';
+$wb['zone_file_missing_soa'] = 'The zone file must contain a SOA record.';
+$wb['zone_file_multiple_soa'] = 'The zone file cannot contain multiple SOA records.';
+$wb['zone_file_soa_parser'] = 'The SOA record in this zone file could not be processed.  Ensure SERIAL, REFRESH, RETRY, EXPIRE and MINIMUM are each on a separate line from other data.';
+$wb['ignore_record_not_class_in'] = 'Ignoring DNS record, not class IN.';
+$wb['ignore_record_unknown_type'] = 'Ignoring DNS record, unknown type.';
+$wb['ignore_record_invalid_owner'] = 'Ignoring DNS record, not able to validate owner name.';
+$wb['zone_file_import_fail'] = 'The zone file did not import.';
+?>

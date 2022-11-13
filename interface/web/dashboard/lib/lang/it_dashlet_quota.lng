@@ -1,0 +1,8 @@
+<?php
+$wb['quota_txt'] = 'Quota disco domini';
+$wb['domain_txt'] = 'Dominio';
+$wb['used_txt'] = 'Spazio usato';
+$wb['hard_txt'] = 'Limite (forzato)';
+$wb['soft_txt'] = 'Limite';
+$wb['no_sites_txt'] = 'Nessun dominio trovato.';
+?>
