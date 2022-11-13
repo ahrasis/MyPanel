@@ -3207,16 +3207,18 @@ class installer_base {
 					$acme_version = '--server https://acme-v0' . (($le_version >=0.22) ? '2' : '1') . '.api.letsencrypt.org/directory';
 					$certonly = 'certonly --agree-tos --non-interactive --expand --rsa-key-size 4096';
 
-					// If this is a webserver
-					if($conf['nginx']['installed'] == true || $conf['apache']['installed'] == true) {
-						exec("$le_client $certonly $acme_version --authenticator webroot --webroot-path /usr/local/ispconfig/interface/acme --email " . escapeshellarg('postmaster@' . $hostname) . " -d " . escapeshellarg($hostname) . " $renew_hook", $out, $ret);
-					}
-					// Else, it is not webserver, so we use standalone
-					else {
-						exec("$le_client $certonly $acme_version --standalone --email " . escapeshellarg('postmaster@' . $hostname) . " -d " . escapeshellarg($hostname) . " $hook", $out, $ret);
+					if((!@is_dir($acme_cert_dir) || !@file_exists($check_acme_file)) && $ip_address_match == true) {
+						// If this is a webserver
+						if($conf['nginx']['installed'] == true || $conf['apache']['installed'] == true) {
+							exec("$le_client $certonly $acme_version --authenticator webroot --webroot-path /usr/local/ispconfig/interface/acme --email " . escapeshellarg('postmaster@' . $hostname) . " -d " . escapeshellarg($hostname) . " $renew_hook", $out, $ret);
+						}
+						// Else, it is not webserver, so we use standalone
+						else {
+							exec("$le_client $certonly $acme_version --standalone --email " . escapeshellarg('postmaster@' . $hostname) . " -d " . escapeshellarg($hostname) . " $hook", $out, $ret);
+						}
 					}
 
-					if($ret == 0) {
+					if($ret == 0 || @is_dir($acme_cert_dir) || @file_exists($check_acme_file)) {
 						// certbot returns with 0 on issue for already existing certificate
 
 						$acme_cert_dir = '/etc/letsencrypt/live/' . $hostname;
